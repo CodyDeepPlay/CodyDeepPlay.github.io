@@ -14,10 +14,10 @@ using matplotlib.get_backend() to view current backend being using by Matplotlib
 ![view matplot backend](https://github.com/CodyDeepPlay/CodyDeepPlay.github.io/blob/master/face_recog_TKAGGPNG.PNG)
 
 Then, I figured it out, using 'TkAgg' is not working, so need to change to backend 'Qt5Agg'. Don't know why. 
-'''
+```
 import matplotlib
 matplotlib.use('Qt5Agg') # change back end
-'''
+```
 
 
 
