@@ -19,7 +19,7 @@ import matplotlib
 matplotlib.use('Qt5Agg') # change back end
 ```
 
-Make sure you installed PyQt5 module, other you will have errors.
+Make sure you installed PyQt5 module, otherwise you will have errors.
 
 
 
