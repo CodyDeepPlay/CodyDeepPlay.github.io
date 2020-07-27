@@ -5,9 +5,9 @@ Matplotlib not working, freeze figure, crash kernel if I am trying to close the 
 
 Below are some figures to show the problem:
 
-![figure freeze](https://https://github.com/CodyDeepPlay/CodyDeepPlay.github.io/blob/master/freeze_figure.PNG)
+![figure freeze](https://https://github.com/CodyDeepPlay/CodyDeepPlay.github.io/freeze_figure.PNG)
 
-![close figure dialogue](https://https://github.com/CodyDeepPlay/CodyDeepPlay.github.io/blob/master/try_to_close_figure.PNG)
+![close figure dialogue](https://https://github.com/CodyDeepPlay/CodyDeepPlay.github.io/try_to_close_figure.PNG)
 
 
 using matplotlib.get_backend() to view current backend being using by Matplotlib.
