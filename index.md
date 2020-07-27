@@ -5,7 +5,7 @@ Matplotlib not working, freeze figure, crash kernel if I am trying to close the 
 
 Below are some figures to show the problem:
 
-![figure freeze]((https://octodex.github.com/images/jetpacktocat.png))
+![figure freeze](https://octodex.github.com/images/jetpacktocat.png)
 
 ![close figure dialogue](https://github.com/CodyDeepPlay/CodyDeepPlay.github.io/blob/master/try_to_close_figure.PNG)
 
