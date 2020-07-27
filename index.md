@@ -7,7 +7,7 @@ Below are some figures to show the problem:
 
 ![figure freeze](https://github.com/CodyDeepPlay/CodyDeepPlay.github.io/blob/master/freeze_figure.PNG)
 
-![close figure dialogue](https://github.com/CodyDeepPlay/CodyDeepPlay.github.io/try_to_close_figure.PNG)
+![close figure dialogue](https://github.com/CodyDeepPlay/CodyDeepPlay.github.io/blob/master/try_to_close_figure.PNG)
 
 
 using matplotlib.get_backend() to view current backend being using by Matplotlib.
